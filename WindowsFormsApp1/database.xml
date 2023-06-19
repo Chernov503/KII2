@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <object name="Рентген" adress="Астрахань, ул.Кирова д. 61" naznachenie="Проводить рентген" serial_number="9876543210">
+    <socznach value="true" title="Социальная значимость" soc_1="1 категория" />
+    <politznach title="Политическая значимость" value="false" polit_1="" />
+    <economznach title="Экономическая значимость" value="false" econom_1="" />
+    <ecologznach title="Экологическая значимость" value="false" ecolog_1="" />
+    <gosznach title="Значимость для обеспечения обороны страны, безопасности государства и правопорядка" value="false" gos_1="" />
+  </object>
+</Objects>
